@@ -1,0 +1,3 @@
+serve:
+  network: tcp
+  address: :22
